@@ -19,7 +19,7 @@ Dataset setup: Follow [these](data_preparation) instructions.
 
 ## Patch Diffusion module
 
-You can integrate [pd_module](pd_module.py) in you own network.
+You can integrate [pd_module](pd_module.py) in your own network.
 
 ## Pairwise Patch Pair Loss
 

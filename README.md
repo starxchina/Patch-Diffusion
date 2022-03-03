@@ -19,11 +19,11 @@ Dataset setup: Follow [these](data_preparation) instructions.
 
 ## Patch Diffusion module
 
-You can integrate [pd_module](pd_module.py) in your own network.
+You can integrate [pd module](pd_module.py) in your own network.
 
 ## Pairwise Patch Pair Loss
 
-Pairwise Patch Loss ([PPLoss](pploss.py)) to learn effective patch feature representations
+Pairwise Patch Loss ([PPLoss](pploss.py)) is to learn representative patch feature.
 
 ## Related Links
 
